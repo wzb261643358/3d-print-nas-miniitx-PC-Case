@@ -37,6 +37,6 @@ cpu:i3-8100T
 
 
 下面展示一下实拍图
-https://github.com/wzb261643358/3d-print-nas-miniitx-PC-Case/blob/main/IMG20250507091101.jpg?raw=true
+![Example Image](IMG20250507092427.jpg)
+![Example Image](IMG20250507091101.jpg)
 
-https://github.com/wzb261643358/3d-print-nas-miniitx-PC-Case/blob/main/IMG20250507092427.jpg?raw=true
